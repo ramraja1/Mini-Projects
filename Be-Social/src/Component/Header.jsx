@@ -1,4 +1,4 @@
-const header = () => {
+const Header = () => {
   return (
     <>
       <header class="p-3 mb-3 border-bottom">

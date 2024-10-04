@@ -104,3 +104,4 @@ const Side = () => {
     </div>
   );
 };
+export default Side;
